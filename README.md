@@ -1,0 +1,2 @@
+# SentimentAnalysis_LSTM
+基于Keras使用LSTM对电商评论进行情感分析
