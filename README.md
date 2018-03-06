@@ -6,8 +6,8 @@
 - 其中content.bin该词向量来自于比赛的数据，进行转换后成为词向量
 - 其中代码给了详细的注释
 - 由于我们组该比赛最终未采用我的方案，所以读取csv文件自动化预测每个词的功能没有完
-> 其中只完成了自动读取csv文件转换为list的功能，再将list转换为原csv文件未完成
-> 所做功能代码在这里：https://github.com/xs-L/NestedDict
+>     1. 其中只完成了自动读取csv文件转换为list的功能，再将list转换为原csv文件未完成
+>     2. 所做功能代码在这里：https://github.com/xs-L/NestedDict
 
 
 ## 框架：
